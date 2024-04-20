@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://sr73.space">SirMarkus73 (SR73)</a> 👋</h1>
 </div>
-<img src="./img/banner.png">
+<img src="./img/banner.png" width="100%">
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-barrero-a103082a2/)
 
@@ -13,7 +13,7 @@
 
 ## Proyectos personales
 
-<table>
+<table align="center">
 <tr>
   <td width="50%">
     <h3 align="center">Pokedex</h3>
