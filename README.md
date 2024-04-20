@@ -11,7 +11,7 @@
 - 🔙 BackEnd Developer
   <br>
 
-## Proyectos personales
+## 📄 Proyectos personales
 
 <table align="center">
 <tr>
