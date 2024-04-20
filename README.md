@@ -1,17 +1,18 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://sr73.space">SirMarkus73 (SR73)</a> 👋</h1>
 </div>
-<!-- <img src="https://i.imgur.com/weNbhGZ.png"> -->
+<img src="./img/banner.png">
 
-[![Linkedin](	https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-barrero-a103082a2/)
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/marcos-barrero-a103082a2/)
 
 ## Sobre mi
 
 - 🔚 FrontEnd Developer
 - 🔙 BackEnd Developer
-<br>
+  <br>
 
 ## Proyectos personales
+
 <table>
 <tr>
   <td width="50%">
@@ -23,7 +24,7 @@
           <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
         </p>
       </a>  
-      <p>Pokedex creada en astro de forma estatica</p>
+      <p>Pokedex creada en astro de forma estática</p>
     </div>
                                                                                       
   </td>
