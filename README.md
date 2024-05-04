@@ -7,8 +7,8 @@
 
 ## Sobre mi
 
-- 🔚 FrontEnd Developer
-- 🔙 BackEnd Developer
+- ➡️ FrontEnd Developer
+- ⬅️ BackEnd Developer
   <br>
 
 ## 📄 Proyectos personales
