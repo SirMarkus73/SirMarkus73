@@ -1,4 +1,4 @@
-<h2 align="left">Hey 👋! My nombre es Marcos y soy de Barcelona, España.</h2>
+<h2 align="left">Hey 👋! Mi nombre es Marcos y soy de Barcelona, España.</h2>
 
 ###
 
